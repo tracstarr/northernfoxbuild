@@ -1,7 +1,6 @@
 remote_theme: sylhare / Type-on-Strap
 
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
 url: "https://northernfox.build"
 title: Northern Fox - The Build
 description: "Building a Kitfox    " # used by search engines
