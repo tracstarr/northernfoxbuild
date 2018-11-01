@@ -1,2 +1,10 @@
 remote_theme: sylhare / Type-on-Strap
 
+ theme_settings:
+    title: Northern Fox - The Build       # Name of website    
+    description: Building a Kitfox            
+    
+theme_settings:
+    header_text: Northern Fox - A Kitfox build
+    header_text_feature_image: assets/img/sample3.png
+    footer_text: Copyright 2018
