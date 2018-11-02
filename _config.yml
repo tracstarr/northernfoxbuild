@@ -11,7 +11,7 @@ theme_settings:
   title: Northern Fox - A Kitfox Build       # Name of website    
   description: Building a Kitfox            
   avatar: assets/images/propeller.png
-  favicon: assets/favicon.ico
+  favicon: assets/images/propeller.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
