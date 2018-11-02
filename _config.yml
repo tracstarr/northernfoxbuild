@@ -8,15 +8,14 @@ description: "Building a Kitfox    " # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Northern Fox - The Build       # Name of website    
+  title: Northern Fox - A Kitfox Build       # Name of website    
   description: Building a Kitfox            
   avatar: assets/images/propeller.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: > #two or three lines to describe your site
-     <p> Northern Fox - A Kitfox build.</p>
+  header_text: 
   header_feature_image: assets/images/header-bg.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a>
