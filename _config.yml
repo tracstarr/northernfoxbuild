@@ -10,7 +10,7 @@ theme_settings:
   # Meta
   title: Northern Fox - The Build       # Name of website    
   description: Building a Kitfox            
-  avatar: assets/img/triangle.svg
+  avatar: assets/images/propeller.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
@@ -20,43 +20,17 @@ theme_settings:
   header_feature_image: assets/images/header-bg.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a>
-  # Icons
-  rss: false  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  gitlab:
-  github: 
-  google_plus:
-  instagram:
-  keybase:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
+  # Icons  
+  facebook:  
   twitter: northernkitfox # "twitter username"
-  vimeo:
-  wordpress:
+  vimeo:  
   youtube:
   
   # Sharing options
   share_buttons:
     facebook: true
     twitter: true
-    google_plus: true
-    tumblr:
-    pinterest:
-    pocket:
-    reddit: true
-    linkedin:
-    wordpress:
-    email: false
+    google_plus: true    
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
