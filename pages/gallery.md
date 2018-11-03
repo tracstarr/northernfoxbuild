@@ -8,8 +8,5 @@ tags: [Gallery, Photo]
 
 This is a photo gallery of the build process.
 
-# {{ site.data.gallery.docs_list_title }}
+{% include gallerytoc.html %}
 
-{% for item in stie.data.gallery.docs %}
-    *{{ item.title }}
-{% endfor %}
