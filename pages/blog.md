@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Blog
 permalink: /blog/
 feature-img: "assets/images/header-bg.jpg"
