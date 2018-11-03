@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/alpine-altitude-clouds.jpg"
+feature-img: "assets/images/alpine-altitude-clouds.jpg"
 tags: [About]
 ---
 
