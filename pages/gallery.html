@@ -1,0 +1,13 @@
+---
+layout: page
+title: Build Gallery
+permalink: /gallery/
+---
+
+<h2>{{ site.data.gallery.docs_list_title }}</h2>
+
+<ul>
+{% for item in stie.data.gallery.docs %}
+    <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
