@@ -3,5 +3,35 @@ subgallery:
 - title: The Buy
   url: thebuy.html
   
-- title: Inventory
-  url: inventory.html
+- title: Delivery
+  url: purchasedelivery.html
+ 
+- title: Engine Arrives
+  url: newengine.html
+  
+- title: Close Inspection
+  url: purchaseinspection.html
+  
+- title: Delivery From Kitfox
+  url: bigdelivery.html
+
+- title: Tear Down
+  url: theteardown.html
+  
+- title: Wing Inspection
+  url: winginspection.html
+  
+- title: Wing Fit
+  url: wingfit.html
+  
+- title: Doors
+  url: doorframe.html
+  
+- title: Tail 
+  url: tail.html
+  
+- title: Wing Work
+  url: wingwork.html
+  
+- title: Floor Panels
+  url: floorpanels.html
