@@ -9,12 +9,8 @@ html { overflow-y: scroll; }
 <div id='masonry' class="grid">
 <div class="grid-sizer"></div>
 <div class="gutter-sizer"></div>
-{% for image in site.static_files %}
-  {% if image.path contains include.gallery_path %}
-    
-        <img src="{{ image.path | prepend: site.baseurl }}" alt="" class="grid-item" style="padding: 0;">
-      
-  {% endif %}
+{% for imageurl in include.gallery_data %}
+    <img src="{{ imageurl }}" alt="" class="grid-item" style="padding: 0;">
 {% endfor %}
 </div> 
 
