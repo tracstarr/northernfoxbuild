@@ -28,12 +28,10 @@ theme_settings:
   # Sharing options
   share_buttons:
     facebook: true
-    twitter: true
-    google_plus: true    
+    twitter: true    
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
   katex: true # Enable if using math markup
   
   special_page:
@@ -44,36 +42,13 @@ theme_settings:
       icon: "tags"
       enabled: true
   
-  # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_share_on: "Share on"
-  str_add_to: "Add to"
-  str_email: "Email"
-  str_tweet: "Tweet"
-  str_pin_it: "Pin it"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
-
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
   # Post navigation
-  post_navigation: true
-  
+  post_navigation: true  
   
 # PAGINATION
 paginate: 5
 paginate_path: "blog/page:num"
-
-
-# PORTFOLIO
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:name
