@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Buy
-gallery_data: "thebuy"
+gallery_data: site.data.thebuy.urls
 tags: [Gallery, Photo]
 ---
 
