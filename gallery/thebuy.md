@@ -5,4 +5,4 @@ gallery_data: site.data.thebuy.urls
 tags: [Gallery, Photo]
 ---
 
-{% include gallery.html gallery_path=page.gallery_data %}
+{% include gallery.html gallery_data=page.gallery_data %}
