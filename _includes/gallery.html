@@ -9,7 +9,7 @@ html { overflow-y: scroll; }
 <div id='masonry' class="grid">
 <div class="grid-sizer"></div>
 <div class="gutter-sizer"></div>
-{% for imageurl in site.data[include.gallery_data] %}
+{% for imageurl in site.data[include.gallery_data].urls %}
     <img src="{{ imageurl }}" alt="" class="grid-item" style="padding: 0;">
 {% endfor %}
 </div> 
