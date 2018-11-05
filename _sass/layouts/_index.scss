@@ -36,6 +36,43 @@
     background-position: 100% 0, 0 center, center top;
 }
 
+.build {
+    @extend %padding-medium;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    font-size: 1.2em;
+    text-align: center;
+    color: $header-desc-text-color;
+    background: $header-desc-background-color no-repeat;
+    background-size: $feature-image-size;
+
+    /* --- Responsive --- */
+    @media screen and (max-width: 850px) {
+        background-size: 100% auto;
+    }
+
+    //For white images
+    p,
+    a,
+    li,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        @extend .header-txt-shadow;
+    }
+
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+
+#main {
+    background-position: 100% 0, 0 center, center top;
+}
+
 // Post listing
 .posts {
     .post-teaser {
