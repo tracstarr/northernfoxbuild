@@ -3,6 +3,7 @@ layout: post
 title: Finding a Fox
 tags: [Purchase,Story]
 excerpt_separator: <!--more-->
+feature-img-remote: "https://res.cloudinary.com/tracstarr/image/upload/c_crop,g_south,h_893,w_2082/c_scale,h_846/v1538499002/Kitfox/1_TheBuy/20180223_121834.jpg"
 ---
 
 Originally, I'm an Icon A5 deposit holder. But, short story short - when they basically doubled the cost I decided no 

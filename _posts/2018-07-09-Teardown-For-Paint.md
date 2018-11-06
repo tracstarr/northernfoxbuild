@@ -3,6 +3,7 @@ layout: post
 title: Teardown For Paint
 status: 
 tags: [Build, teardown,paint]
+feature-img-remote: "https://res.cloudinary.com/tracstarr/image/upload/c_crop,g_center,h_1638,w_5312/v1538498735/Kitfox/6_TearDown/20180621_085222.jpg"
 ---
 So, a few small updates. Sorry, no pics. 
 

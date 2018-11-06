@@ -3,6 +3,7 @@ layout: post
 title: Feeling Happy
 status: 
 tags: [Build, paint, package]
+feature-img-remote: "https://res.cloudinary.com/tracstarr/image/upload/v1538498767/Kitfox/5_DeliveryFromKitfox/20180608_142804.jpg"
 ---
 Well, two bits of news that's exciting for me. 
 

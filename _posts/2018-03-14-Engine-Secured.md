@@ -3,6 +3,7 @@ layout: post
 title: Engine Secured
 status: 
 tags: [Build]
+feature-img-remote: "https://res.cloudinary.com/tracstarr/image/upload/c_crop,g_north_west,h_4158,w_906/a_90/v1538498837/Kitfox/3_EngineArrives/20180329_130339.jpg"
 ---
 I've secured my engine. I will be going with a 912is Sport factory new. Got a great deal on it (i think anyway) as it's an older model year. They jacked up the prices recently and no longer include exhaust/ring mounts. 
 
