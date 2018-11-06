@@ -45,7 +45,7 @@
     {% endif %}
 
     <!-- Google Analytics -->
-    {% if site.theme_settings.google_analytics %}
+    {% if site.theme_settings.google_analytics and jekyll.environment == 'production' %}
     <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
