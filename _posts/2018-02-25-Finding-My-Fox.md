@@ -33,6 +33,8 @@ over as delivery would be the next day. Until it was safe in my shop I was going
 it arrived. The biggest trouble was getting stuck in the yard trying to turn the trailer around to unload. Everything 
 else appeared to be fine after the trip. A little bit of rubbing from rope used to hang the wings, but only minor. 
 
+![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,h_300/v1538499010/Kitfox/1_TheBuy/20180223_131543.jpg)
+
 Now, it begins. Will inventory the hardware and figure out if and what might be missing. There are several items I will 
 be selling as I don't need/want them. 
 

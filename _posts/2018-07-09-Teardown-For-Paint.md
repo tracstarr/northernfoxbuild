@@ -11,7 +11,9 @@ I had to tear down my fuselage to prep for sandblasting.
 
 I managed to get the vertical stabilizer ribs off without too much damage using a heat gun. They should be re-usable if I can clean them up without damaging them. 
 
-Everything else came off easily and I taped up the long aluminum stringers on the sides and bottom of the body. I also left the aluminum door frame pieces on. 
+Everything else came off easily and I taped up the long aluminum stringers on the sides and bottom of the body. I also left the aluminum door frame pieces on.
+
+![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,h_300/v1538498735/Kitfox/6_TearDown/20180620_200745.jpg) 
 
 It finally got blasted over the weekend after sitting in the shop for about 3 weeks. 
 
