@@ -9,7 +9,7 @@ feature-img-remote: "https://res.cloudinary.com/tracstarr/image/upload/c_crop,g_
 It's been a busy two weeks. Lots of things have happened. I had a few setbacks to overcome and a few more to deal with. 
 But it's been forward progress and getting closer to that pre-cover inspection. 
 
-####Fabric Covering
+#### Fabric Covering
 First, speaking of covering, decisions have been made and product purchased. For me it really wasn't a decision of which
 fabric to use, but more about which colors. Oratex was the choice. For me it's the simplicity as well as the unique 
 factor. 
@@ -34,7 +34,7 @@ I've not decided for sure yet, and can easily add the stitching at any point.
 
 Hopefully the shipment will arrive before christmas. 
 
-####New Parts Arrived
+#### New Parts Arrived
 Moving right along I was excited to get my first piece of the avionics - the pitot tube. I'm holding off on most of it 
 until the new year and closer to needing it - but I needed the pitot to be ready for pre-cover inspection. 
 
@@ -44,7 +44,7 @@ I decided on the Garmin GAP 26 regulated pitot. It's the most costly option, but
 to night certify and fly over the top (of cloud) it was an easy decision. With it I got the Dynon pitot/AOA tubing kit
 and a Gretz mounting bracket. 
 
-####Flapperon Brackets & Fitting
+#### Flapperon Brackets & Fitting
 Continuing from where we last left off with the tank install and trailing edge, things took a slide for the worse before
 it got better. 
 
@@ -86,7 +86,7 @@ fabricate a small plate to attach over top. But that'll be a story for another d
 
 Well, a few days and a few issues solved and fixed. Slow progress but still progress. 
 
-####Tanks
+#### Tanks
 Put on the modified ribs and false ribs and set them to the same contour as others with some wood and hysol. Also added
 the small support pieces against the tank and the number one rib.
 
@@ -95,20 +95,20 @@ the small support pieces against the tank and the number one rib.
 Additionally I orders up some new flexable fuel line to replace the hard molded tube used. I was told there have been a
 few cases of it breaking - and I don't want that mid flight! 
 
-####Laker Leading Edge
+#### Laker Leading Edge
 So smooooooooooth. Got the LLE fitted and ready to be hysoled, but that will have to wait a bit longer as I still have
 to mount the jury struts. Also made the little fittings for around the main attachments for the fabric to attach to. 
 
 ![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,w_300/v1542163413/Kitfox/11_WingWork/20181106_214827.jpg)
 
-####Fuselage
+#### Fuselage
 Moving right along there are some things to tackle on the fuselage. Started with re-mounting the pedals with some new 
 hardware. First though they were greased up with some lithium grease. 
 
 Continued with fitting the rudder cables and swaged the ends to the rudder adjustment handles. I had to order the tube
 that fits into the alignment brackets and cut and fit that as well. 
 
-![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,w_300/v1542163516/Kitfox/13_Fuselage/20181113_112914.jpg)
+![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,h_300/v1542163516/Kitfox/13_Fuselage/20181113_112914.jpg)
 
 ![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,w_300/v1542163509/Kitfox/13_Fuselage/20181113_144943.jpg)
 
@@ -117,8 +117,8 @@ static ports.
 
 Oh yeah, also inserted the elevator tube and re-rivited the end back on and attached it. 
 
-![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,w_300/v1542163509/Kitfox/13_Fuselage/20181113_145021.jpg)
+![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,h_300/v1542163509/Kitfox/13_Fuselage/20181113_145021.jpg)
 
-####Next Up
+#### Next Up
 Well, that was a big update - and I probably missed something. But next up will be the j-stringers along the sides and
 bottom. 
