@@ -35,7 +35,7 @@ I've not decided for sure yet, and can easily add the stitching at any point.
 Hopefully the shipment will arrive before christmas. 
 
 ####New Parts Arrived
-Moving right along I was excited to get my first piece of the avionics - the pitot tube. I'm holing off on most of it 
+Moving right along I was excited to get my first piece of the avionics - the pitot tube. I'm holding off on most of it 
 until the new year and closer to needing it - but I needed the pitot to be ready for pre-cover inspection. 
 
 ![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,w_300/v1542163384/Kitfox/11_WingWork/20181101_203350.jpg)
@@ -49,7 +49,7 @@ Continuing from where we last left off with the tank install and trailing edge, 
 it got better. 
 
 The next step was working on the flapperon mounting brackets. First thing I'll say is that if you're working on anything
-but a model 7, upgrade to the model 7 brackets. What a paint in the ass these were. Far more to go wrong, and totally 
+but a model 7, upgrade to the model 7 brackets. What a pain in the ass these were. Far more to go wrong, and totally 
 obvious why they were changed on the 7. I only know this because a friend just completed a 7 and was helping. 
 
 ![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,w_300/v1542163312/Kitfox/11_WingWork/20181031_141542.jpg)
@@ -74,7 +74,7 @@ that was fixed up. I make it sound easier than it was as it did take a few hours
 _However_ this lead to one more small problem. The measurements for bracket placement had one off by about 1/32 of an inch
 more than acceptable. Again, experience prevailed with the solution. A bottle of water, hairdryer and 2x4. With this
 we wet down the end of the rib, heated it up and used the 2x4 as a brace to ever so slightly adjust for a better 
-fit. All I can saw is wow. I really wouldn't have known what to do. 
+fit. All I can say is wow. I really wouldn't have known what to do. 
 
 ![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,w_300/v1542163413/Kitfox/11_WingWork/20181106_214838.jpg)
 
