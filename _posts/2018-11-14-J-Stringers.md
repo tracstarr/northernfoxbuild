@@ -17,3 +17,4 @@ without.
 
 Also decided to make the bottom stringer out of aluminum as well. 
 
+![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,w_300/v1542163508/Kitfox/13_Fuselage/20181113_154731.jpg)

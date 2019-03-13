@@ -11,12 +11,16 @@ cut out to fit on the bottoms of the tanks and then hysoled on. Then there
 was a lot of sanding. Using a level all of the false ribs were sanded slightly to 
 make the profiles perfect to make the fabric sit as nicely as possible. 
 
+![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,h_300/v1552075757/Kitfox/20181130_111816.jpg)
+
 There was also a small bit of fabrication to make and install the pitot tube
 mounting plate. 
 
 Additionally the rudder cable install was completed. A hair dryer and 
 paint cans were used to help straighten out the tube which the cable runs.
 With a bit of difficulty, the cables were setup and attached in the rear. 
+
+![alt text](https://res.cloudinary.com/tracstarr/image/upload/c_scale,h_300/v1542163509/Kitfox/13_Fuselage/20181113_144943.jpg)
 
 ##### ORATEX ARRIVED
 
