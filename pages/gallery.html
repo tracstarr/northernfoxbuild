@@ -4,13 +4,17 @@ title: Gallery
 permalink: /gallery/
 feature-img-remote: "https://res.cloudinary.com/tracstarr/image/upload/c_crop,g_south,h_300,w_2045,x_0,y_0/v1541466622/northernfox.build/aeroplane-aviation-clouds.jpg"
 ---
+<script type="text/javascript" src="https://product-gallery.cloudinary.com/all.js"></script>
 
-<div>
-Each section of the build I've tried to organize into one of the following groups. 
-</div>
-</br>
-<ul>
-    {% for item in site.data.gallery.subgallery %}
-        <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
-    {% endfor %}
-</ul>
+<div class="wrap" id="wrap"></div>
+
+<script>
+  cloudinary.galleryWidget({
+    container: '#wrap',
+    cloudName: 'tracstarr',
+    mediaAssets: [{
+      tag: "Kitfox"
+    }],
+  }).render();
+
+</script>
