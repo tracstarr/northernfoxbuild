@@ -10,11 +10,49 @@ feature-img-remote: "https://res.cloudinary.com/tracstarr/image/upload/c_crop,g_
 
 <script>
   cloudinary.galleryWidget({
-    container: '#Kitfox',
+    container: '#kitfox',
     cloudName: 'tracstarr',
     mediaAssets: [{
       tag: "Kitfox"
     }],
+     "carouselStyle": "thumbnails",
+    "carouselLocation": "bottom",
+    "navigation": "none",
+    "aspectRatio": "16:9",
+     "thumbnailProps": {
+        "width": 120,
+        "height": 96,
+        "mediaSymbolPosition": "center",
+        "mediaSymbolBgShape": "radius",
+        "selectedStyle": "all",
+        "selectedBorderColor": "#d0021b",
+        "selectedBorderPosition": "all",
+        "mediaSymbolBgOpacity": 0.8
+    },
+    "zoom": true,
+    "zoomProps": {
+        "level": 2.5
+    },
+    "themeProps": {
+        "primary": "#d0021b",
+        "onPrimary": "#ffffff",
+        "active": "#d0021b"
+    },
+    "transition": "fade",
+    "viewportBreakpoints": [{
+        "breakpoint": 576,
+        "navigation": "always",
+        "carouselStyle": "indicators",
+        "carouselLocation": "bottom",
+        "onPrimary": "#d0021b",
+        "navigationProps": {
+            "iconColor": "#d0021b"
+        },
+        "indicatorProps": {
+            "selectedColor": "#d0021b",
+            "color": "#E7808D"
+        }
+    }]
   }).render();
 
 </script>
